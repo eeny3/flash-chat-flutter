@@ -1,5 +1,6 @@
 
 # mess_U messenger
+App uses firebase authentication to identify users and firebase firestore to store messages and other info.
 App funcitonality:
 - unregistered user can register his account
 - registered user can log-in and use all other functionalities
