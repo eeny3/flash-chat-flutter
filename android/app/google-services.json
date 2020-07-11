@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "429490136694",
+    "firebase_url": "https://flashchat-b4480.firebaseio.com",
+    "project_id": "flashchat-b4480",
+    "storage_bucket": "flashchat-b4480.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429490136694:android:0f79b84f2345449ec62157",
+        "android_client_info": {
+          "package_name": "co.kebabuov.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "429490136694-8b7on07l2emf6d755cnijstc6f0ft1qh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKpuN40J4uubjRVY9QkJOm7D47zUFwQ8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "429490136694-8b7on07l2emf6d755cnijstc6f0ft1qh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
